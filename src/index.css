@@ -76,8 +76,8 @@ a {
   color: rgb(140 139 139);
   font-size: 0.9rem;
 }
-.orangeText {
-  color: orange;
+.brownText {
+  color: rgba(230, 151, 95, 0.752);
   font-size: 1.5rem;
   font-weight: 600;
 }

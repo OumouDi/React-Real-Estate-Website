@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Maple Grove Estates",
+    "price": "47,043",
+    "detail": "123 Oak Street, Maple Grove, CA 12345",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Pinehurst Residences",
+    "price": "66,353",
+    "detail": "456 Pine Avenue, Pinehurst, NY 67890",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Cedar Creek Homes",
+    "price": "35,853",
+    "detail": "789 Cedar Lane, Cedar Creek, TX 45678",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Evergreen Estates",
+    "price": "47,043",
+    "detail": "321 Spruce Street, Evergreen, FL 54321",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Redwood Residences",
+    "price": "66,353",
+    "detail": "654 Redwood Boulevard, Redwood City, CA 98765",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Oakland Gardens",
+    "price": "35,853",
+    "detail": "876 Oak Avenue, Oakland, GA 23456",
+    "image": "./r3.png"
+  }
+]

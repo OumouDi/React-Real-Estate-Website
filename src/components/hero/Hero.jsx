@@ -2,6 +2,7 @@ import "./hero.css";
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
 import heroimage from "../../assets/hero-image.jpg";
+import SearchBar from "../searchBar/SearchBar";
 
 const Hero = () => {
   return (
@@ -32,6 +33,7 @@ const Hero = () => {
               Leave behind all challenges in finding your ideal residence.
             </span>
           </div>
+          <SearchBar />
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">

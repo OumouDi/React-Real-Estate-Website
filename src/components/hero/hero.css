@@ -47,6 +47,10 @@
 .stat > :nth-child(1) > :last-child {
   color: rgba(230, 151, 95, 0.752);
 }
+
+button .search{
+    color: black;
+}
 /* right side */
 
 .image-container {

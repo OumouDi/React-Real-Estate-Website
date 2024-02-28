@@ -10,8 +10,8 @@ function App() {
         <div className="white-gradient"></div>
         <Header />
         <Hero />
-        <Residencies />
       </div>
+      <Residencies />
     </div>
   );
 }

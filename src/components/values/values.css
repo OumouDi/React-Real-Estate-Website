@@ -31,7 +31,7 @@
     border-radius: 5px;
   }
   .icon svg {
-    fill: var(--blue);
+    fill: rgba(230, 151, 95, 0.752);
   }
   
   .accordionButton .primaryText{

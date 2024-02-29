@@ -4,7 +4,7 @@ import Hero from "./components/hero/Hero";
 import Residencies from "./components/residencies/Residencies";
 import Values from "./components/values/Values";
 import Contact from "./components/contact/Contact";
-
+import GetStarted from "./components/getStarted/getStarted";
 function App() {
   return (
     <div className="App">
@@ -16,6 +16,7 @@ function App() {
       <Residencies />
       <Values />
       <Contact />
+      <GetStarted />
     </div>
   );
 }

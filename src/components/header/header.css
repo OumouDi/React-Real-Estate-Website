@@ -15,6 +15,40 @@
   gap: 2rem;
 }
 
-.h-menu > *:hover {
+.h-menu > a,
+.h-menu > button > a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.h-menu > a:hover,
+.h-menu > button > a:hover {
+  color: rgba(230, 151, 95, 0.752);
   cursor: pointer;
+}
+.menu-icon {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .menu-icon {
+    display: block;
+  }
+  .h-menu {
+    color: var(--black);
+    position: absolute;
+    gap: 2rem;
+    font-weight: 500;
+    flex-direction: column;
+    right: 4rem;
+    top: 3rem;
+    background: white;
+    display: flex;
+    border-radius: 10px;
+    transition: all 200ms ease;
+    align-items: flex-start;
+    padding: 3rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    z-index: 100;
+  }
 }

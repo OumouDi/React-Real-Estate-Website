@@ -15,7 +15,7 @@ const Footer = () => {
         </div>
 
         <div className="flexColStart f-right">
-          <div className="flexCenter h-menu">
+          <div className="flexCenter f-menu">
             <span>Privacy Policy</span>
             <span>Terms and Conditions</span>
             <span>Cookie Policy</span>

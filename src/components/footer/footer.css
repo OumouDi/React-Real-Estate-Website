@@ -8,7 +8,9 @@
   gap: 1.5rem;
   margin-top: 1.5rem;
   font-weight: 500;
+  cursor: pointer;
 }
+
 @media (max-width: 768px) {
   .f-container {
     justify-content: center;
@@ -20,4 +22,9 @@
   .f-right {
     justify-content: center;
   }
+
+  .f-menu {
+    font-size: 13px;
+  }
+
 }
